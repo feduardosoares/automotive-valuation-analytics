@@ -22,3 +22,22 @@
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/feduardosoares/automotive-valuation-analytics.git](https://github.com/feduardosoares/automotive-valuation-analytics.git)
+   ```
+Entre na pasta do projeto:
+   ```bash
+   cd automotive-valuation-analytics
+   ```
+   Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+Execute a aplicação:
+   ```bash
+   python app.py
+   ```
+#### **6. Autor / Contato**
+
+Desenvolvido por **Francisco Eduardo Soares**  
+- 💼 **LinkedIn:** [feduardosoares](https://linkedin.com/in/feduardosoares)  
+- 🐙 **GitHub:** [feduardosoares](https://github.com/feduardosoares)
+   
