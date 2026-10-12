@@ -35,7 +35,7 @@ Execute a aplicação:
    ```bash
    python app.py
    ```
-#### **6. Autor / Contato**
+#### **Autor / Contato**
 
 Desenvolvido por **Francisco Eduardo Soares**  
 - 💼 **LinkedIn:** [feduardosoares](https://linkedin.com/in/feduardosoares)  
